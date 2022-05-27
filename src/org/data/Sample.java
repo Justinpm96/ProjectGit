@@ -5,5 +5,5 @@ public class Sample {
 		System.out.println("Enter Employee Name");
 
 	}
-
+ employee;
 }
